@@ -5,7 +5,7 @@
 **Building tools that let AI coding agents work as a real dev team.**
 **让 AI 编程工具像一支真正的开发团队一样协作。**
 
-[🌐 Homepage](https://jasonchencnn.github.io) · [🧩 AI Team Workspace](https://github.com/jasonchencnn/ai-team-workspace)
+[🌐 Homepage](https://jasonchencnn.github.io) · [🧩 AI Team Workspace](https://github.com/jasonchencnn/ai-team-workspace) · [⬇️ Download for macOS · 下载](https://github.com/jasonchencnn/ai-team-workspace/releases/tag/v0.2.0)
 
 </div>
 
@@ -53,4 +53,5 @@ I also practice this way of working on the project itself: Claude acts as the le
 
 - ✅ M1–M7 complete: teams & roles, ACP dispatch, review loop, Leader MCP orchestration, role messaging, harness rebinding, polish & `.dmg` packaging
 - ✅ M1～M7 已完成：团队与岗位、ACP 派工执行、验收闭环、Leader 编排、岗位通信、换绑与上下文继承、打磨与打包
+- 📦 [v0.2.0 pre-release](https://github.com/jasonchencnn/ai-team-workspace/releases/tag/v0.2.0) for macOS (Apple silicon) · macOS 预发布版已可下载
 - 🔍 Final product check in progress · 正在做最终产品校验
